@@ -1,6 +1,4 @@
 # BattleShipDeluxe
-Project made during Programming 1, for graphical Battleship game.
-
 Tämä ohjelma luo yksinkertaisen graafisen käyttöliittymän laivanupotuspelille.
 Ohjelman aluksi käyttäjältä kysytään pelissä olevien laivojen lukumäärä sekä
 käyttäjän ammuksien määrä, jonka jälkeen Continue-napin painalluksella peli avautuu.
